@@ -1,6 +1,6 @@
 # Pong-clone
 
-Made with the help of freecodecamp
+Made with the help of [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 # Monster-game
 
